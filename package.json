@@ -2,7 +2,7 @@
   "name": "nodejs-example-with-mongo-atlas",
   "version": "1.0.0",
   "description": "Copyright Dreams Factory. All Rights Reserved.",
-  "main": "index.js",
+  "main": "app.js",
   "author": "TK Yoon",
   "license": "ISC",
   "dependencies": {
