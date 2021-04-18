@@ -1,4 +1,4 @@
 var mongoose = require('mongoose');
-var uri = "mongodb+srv://pilsa:pilsa@plisa-fuc3q.mongodb.net/pilsa_db?retryWrites=true";
+var uri = "mongodb+srv://admin:rnuuIkHIQPpESjFB@cluster0.ntvqy.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
 
 mongoose.connect(uri, { useNewUrlParser: true });
